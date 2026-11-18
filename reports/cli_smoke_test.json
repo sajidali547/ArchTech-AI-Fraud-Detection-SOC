@@ -1,0 +1,11 @@
+{
+  "status": "passed",
+  "checked_at_utc": "2026-11-18T17:17:04.705749+00:00",
+  "test": "Actual CLI scores 3 held-out feature rows; only the high-score row emits an alert",
+  "summary": {
+    "transactions": 3,
+    "high_severity_alerts": 1,
+    "suppressed": 2,
+    "threshold": 0.5
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "started_at_utc": "2026-11-18T17:09:44.433030+00:00",
+  "cells": [
+    {
+      "stage": "1-imports",
+      "execution_count": 1,
+      "seconds": 9.265,
+      "completed_at_utc": "2026-11-18T17:09:56.491108+00:00"
+    },
+    {
+      "stage": "2-baseline",
+      "execution_count": 2,
+      "seconds": 6.702,
+      "completed_at_utc": "2026-11-18T17:10:03.196143+00:00"
+    },
+    {
+      "stage": "3-preprocessing",
+      "execution_count": 3,
+      "seconds": 4.445,
+      "completed_at_utc": "2026-11-18T17:10:07.647316+00:00"
+    },
+    {
+      "stage": "4-smote",
+      "execution_count": 4,
+      "seconds": 5.078,
+      "completed_at_utc": "2026-11-18T17:10:12.727974+00:00"
+    },
+    {
+      "stage": "5-training",
+      "execution_count": 5,
+      "seconds": 254.245,
+      "completed_at_utc": "2026-11-18T17:14:26.975798+00:00"
+    },
+    {
+      "stage": "6-evaluation",
+      "execution_count": 6,
+      "seconds": 1.414,
+      "completed_at_utc": "2026-11-18T17:14:28.393657+00:00"
+    }
+  ],
+  "completed_at_utc": "2026-11-18T17:14:29.334674+00:00",
+  "status": "success"
+}
